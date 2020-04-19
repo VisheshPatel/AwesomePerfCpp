@@ -87,6 +87,8 @@ Manuals:
 * [Daniel Lemire's blog](http://lemire.me/blog/)
 * [Wojciech Mula's site: 0x80.pl - articles on performance, SIMD](http://0x80.pl/articles/index.html)
 * [Bartek's programming blog](http://www.bfilipek.com)
+* [Design Patterns in Modern C++](http://www.vishalchovatiya.com/category/design-patterns/)
+
 
 ## Tools
 
@@ -105,6 +107,7 @@ Manuals:
 * [Qualcomm Snapdragon Profiler](https://developer.qualcomm.com/software/snapdragon-profiler)
 * [Oracle Solaris Studio Performance Analyzer](http://www.oracle.com/technetwork/server-storage/solarisstudio/features/performance-analyzer-2292312.html)
 * [OProfile](http://oprofile.sourceforge.net/about/) for Linux
+* [Sourcetrail](https://www.sourcetrail.com/): Free and open-source cross-platform source code explorer
 
 ### Paid
 
